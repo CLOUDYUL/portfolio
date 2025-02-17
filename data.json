@@ -25,9 +25,9 @@
     {
       "id": 0,
       "name": "Hemochat 팀 프로젝트",
-      "description": "Medical Test Result AI Analysis System\n\nHemochat은 다양한 의료 검사 결과에 대한 AI 분석 정보를 제공하여, 사용자들이 검사 수치를 이해하는 데 도움을 주는 서비스입니다.\n\nGithub는 Public Repository가 아니므로 확인이 어려운 점 양해부탁드립니다.",
+      "description": "Medical Test Result AI Analysis System\n\nHemochat은 다양한 의료 검사 결과에 대한 AI 분석 정보를 제공하여, 사용자들이 검사 수치를 이해하는 데 도움을 주는 서비스입니다.\n\nGithub는 Public Repository가 아니므로 확인이 어려운 점 양해부탁드립니다. (깃허브 아이콘을 누르시면 iOS APP 다운로드 링크로 연결됩니다.)",
       "webUrl": "https://www.hemochat.net/",
-      "repoUrl": "https://github.com/SpinaiProject",
+      "repoUrl": "https://apps.apple.com/kr/app/hemochat/id6738577226",
       "isTeam": true,
       "period": ["2024. 06", "now"],
       "stack": ["Flutter"]
